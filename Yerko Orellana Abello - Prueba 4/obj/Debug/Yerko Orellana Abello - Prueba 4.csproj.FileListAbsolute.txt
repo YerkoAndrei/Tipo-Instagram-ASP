@@ -1,0 +1,12 @@
+E:\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\bin\Yerko Orellana Abello - Prueba 4.dll
+E:\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\bin\Yerko Orellana Abello - Prueba 4.pdb
+E:\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\obj\Debug\Yerko Orellana Abello - Prueba 4.dll
+E:\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\obj\Debug\Yerko Orellana Abello - Prueba 4.pdb
+G:\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\bin\Yerko Orellana Abello - Prueba 4.dll
+G:\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\bin\Yerko Orellana Abello - Prueba 4.pdb
+G:\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\obj\Debug\Yerko Orellana Abello - Prueba 4.dll
+G:\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\obj\Debug\Yerko Orellana Abello - Prueba 4.pdb
+C:\Users\-YerkoAndrei-\Desktop\Inacap\4° Semestre\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\bin\Yerko Orellana Abello - Prueba 4.dll
+C:\Users\-YerkoAndrei-\Desktop\Inacap\4° Semestre\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\bin\Yerko Orellana Abello - Prueba 4.pdb
+C:\Users\-YerkoAndrei-\Desktop\Inacap\4° Semestre\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\obj\Debug\Yerko Orellana Abello - Prueba 4.dll
+C:\Users\-YerkoAndrei-\Desktop\Inacap\4° Semestre\ASP .NET\Yerko Orellana Abello - Prueba 4\Yerko Orellana Abello - Prueba 4\obj\Debug\Yerko Orellana Abello - Prueba 4.pdb

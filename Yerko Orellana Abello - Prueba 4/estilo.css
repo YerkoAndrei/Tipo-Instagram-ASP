@@ -1,0 +1,181 @@
+﻿body
+{
+    background-color: antiquewhite;
+}
+/* hombre : #CEE3F6
+   mujer  : #E3CEF6
+*/
+.button
+{
+    background-color: white;
+    border: 3px solid blue;
+    color: blue;
+    border-radius: 7px;
+    height: 30px;
+}
+.button:hover
+{
+    background-color: blue;
+    border: 3px solid blue;
+    color: white;
+    border-radius: 7px;
+    height: 30px;
+}
+h2
+{
+    text-align:center;
+}
+#ingreso{
+    background-color: #58ACFA;
+    margin: 10px auto;
+    width:300px;
+    border-radius: 10px;
+    padding: 1px 20px 20px 20px;
+}
+#btnReg{
+    background-color: #8181F7;
+    margin: 0 auto;
+    width:300px;
+    border-radius: 10px;
+    padding: 1px 20px 1px 20px;
+}
+#registrar{
+    background-color: #8181F7;
+    margin: 0 auto;
+    width:300px;
+    border-radius: 10px;
+    padding: 20px;
+}
+/*--------------------------------------------------------------------*/
+#head
+{
+    width:100%;
+}
+#logo
+{
+    float:left;
+    position: fixed;
+    top: 50px;
+    left: 3px;
+}
+#subir
+{
+    background-color: #58ACFA;
+    width:60%;
+    margin: 10px auto;
+    border-radius: 10px;
+    padding: 1px 10px 20px 10px;
+}
+#mostrar
+{
+    background-color: #58ACFA;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+#sugerencias
+{
+    background-color: #8181F7;
+    width: 19%;
+    float: left;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+#perfil
+{
+    background-color: #8181F7;
+    width:19%;
+    height:500px;
+    float: right;
+    border-radius: 10px;
+}
+/*--------------------------------------------------------------------*/
+h1
+{
+    text-align: center;
+}
+.edicionPerfil
+{
+    background-color: #58ACFA;
+    padding:10px;
+    border-radius: 10px;
+}
+#edicion
+{
+    margin: 20px auto;
+    width: 250px;
+}
+#actualizacion
+{
+    width: 35%;
+    margin: 0 auto;
+}
+/*--------------------------------------------------------------------*/
+.drop
+{
+    width: 250px;
+    height: 150px;
+    background-color: #fff;
+    background-image: url("img/drop.png");
+    border: 3px dashed blue;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+#txtPieFoto
+{
+    float: right;
+    margin: 5px;
+}
+#divSubirImagen
+{
+    float: left;
+    margin: 10px; 
+}
+/*--------------------------------------------------------------------*/
+.publicacion
+{
+    margin: 30px auto;
+    width: 60%;
+    padding: 10px;
+    background-color: #D8D8D8;
+    border-radius: 10px;
+}
+.comentarios
+{
+    background: rgba(0, 0, 0, 0.1);
+    overflow: auto;
+    height: 200px;
+    width: 250px;
+    float:right;
+    border-radius: 10px;
+    word-wrap: break-word;
+}
+a
+{
+    color: Black;
+    text-decoration: none;
+}
+a:hover
+{
+    color: Blue;
+    text-decoration: none;
+}
+/*--------------------------------------------------------------------*/
+#verPerfil
+{
+    background-color: #8181F7;
+    width:60%;
+    height:210px;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+}
+#verFotos
+{
+    background-color: #58ACFA;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+}

@@ -1,0 +1,37 @@
+create database finalp4
+
+create table usuario(
+nick varchar(30) primary key,
+email varchar(50),
+nombre varchar(30),
+sexo varchar(3),
+pass varchar(30),
+estado varchar(140),
+foto_perfil varchar(50),
+)
+create table seguimiento(
+id int identity(1,1) primary key,
+nick_seguido varchar(30),
+nick_seguidor varchar(30),
+foreign key (nick_seguido) references usuario(nick),
+foreign key (nick_seguidor) references usuario(nick)
+)
+create table foto(
+id int identity(1,1) primary key,
+nick_usuario varchar(30),
+direccion varchar(50)
+foreign key (nick_usuario) references usuario(nick),
+)
+create table comentario(
+id int identity(1,1) primary key,
+id_foto int,
+texto varchar(140),
+nick_usuario varchar(30),
+foreign key (nick_usuario) references usuario(nick),
+foreign key (id_foto) references foto(id),
+)
+
+select * from usuario
+select * from seguimiento
+select * from foto
+select * from comentario
